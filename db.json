@@ -11,7 +11,7 @@
     {
       "nombre": "Pan de ajo",
       "ingredientes": ["pan", "ajo", "mantequilla", "perejil"]
-    }
+    },
  {
       "nombre": "Pan de centeno",
       "ingredientes": ["harina de centeno", "agua", "levadura", "sal"]
@@ -51,7 +51,7 @@
     {
       "nombre": "Pan de jengibre",
       "ingredientes": ["harina", "jengibre", "azúcar", "levadura", "sal"]
-    }
+    },
    {
       "nombre": "Pan de queso",
       "ingredientes": ["harina", "agua", "levadura", "sal", "queso"]
