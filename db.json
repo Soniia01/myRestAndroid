@@ -1,82 +1,102 @@
 {
   "panes": [
     {
+      "id":1,
       "nombre": "Baguette",
       "ingredientes": ["harina", "agua", "levadura", "sal"]
     },
     {
+      "id":2,
       "nombre": "Pan integral",
       "ingredientes": ["harina integral", "agua", "levadura", "sal", "semillas"]
     },
     {
+      "id":3,
       "nombre": "Pan de ajo",
       "ingredientes": ["pan", "ajo", "mantequilla", "perejil"]
     },
     {
+      "id":4,
       "nombre": "Pan de centeno",
       "ingredientes": ["harina de centeno", "agua", "levadura", "sal"]
     },
     {
+      "id":5,
       "nombre": "Bollos suizos",
       "ingredientes": ["harina", "leche", "azúcar", "levadura", "mantequilla"]
     },
     {
+      "id":6,
       "nombre": "Pan pita",
       "ingredientes": ["harina", "agua", "levadura", "sal"]
     },
     {
+      "id":7,
       "nombre": "Pan de molde",
       "ingredientes": ["harina", "agua", "levadura", "sal", "azúcar", "aceite"]
     },
     {
+      "id":8,
       "nombre": "Pan de maíz",
       "ingredientes": ["harina de maíz", "harina de trigo", "azúcar", "levadura", "sal", "leche"]
     },
     {
+      "id":9,
       "nombre": "Fougasse",
       "ingredientes": ["harina", "agua", "levadura", "sal", "aceitunas", "tomates secos"]
     },
     {
+      "id":10,
       "nombre": "Pan naan",
       "ingredientes": ["harina", "yogur", "levadura", "sal", "ajo"]
     },
     {
+      "id":11,
       "nombre": "Pan de nueces",
       "ingredientes": ["harina", "agua", "levadura", "sal", "nueces"]
     },
     {
+      "id":12,
       "nombre": "Pan de avena",
       "ingredientes": ["harina de avena", "harina", "agua", "levadura", "sal"]
     },
     {
+      "id":13,
       "nombre": "Pan de jengibre",
       "ingredientes": ["harina", "jengibre", "azúcar", "levadura", "sal"]
     },
     {
+      "id":14,
       "nombre": "Pan de queso",
       "ingredientes": ["harina", "agua", "levadura", "sal", "queso"]
     },
     {
+      "id":15,
       "nombre": "Pan de frutas",
       "ingredientes": ["harina", "agua", "levadura", "sal", "frutas confitadas"]
     },
     {
+      "id":16,
       "nombre": "Pan de centeno con pasas",
       "ingredientes": ["harina de centeno", "agua", "levadura", "sal", "pasas"]
     },
     {
+      "id":17,
       "nombre": "Pan de espelta",
       "ingredientes": ["harina de espelta", "agua", "levadura", "sal"]
     },
     {
+      "id":18,
       "nombre": "Brioche",
       "ingredientes": ["harina", "huevos", "azúcar", "levadura", "mantequilla", "leche"]
     },
     {
+      "id":19,
       "nombre": "Pan de avena y miel",
       "ingredientes": ["harina de avena", "miel", "agua", "levadura", "sal"]
     },
     {
+      "id":20,
       "nombre": "Pan de patata",
       "ingredientes": ["harina", "patatas", "levadura", "sal", "aceite"]
     }
